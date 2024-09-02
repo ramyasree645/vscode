@@ -1,0 +1,12 @@
+JAVA
+need to share this file to central repository(vscode)
+git clone
+git init
+git status
+git add
+git branch
+local repository,staging,central
+git commit -m "this is ramya pushing to central repository"
+git push origin master
+git checkout (branch name)
+ssh-keygen
